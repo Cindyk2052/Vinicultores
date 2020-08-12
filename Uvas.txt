@@ -1,0 +1,12 @@
+Precio inicial de kilo de uvas: Kilos de uvas producidas: Venta: 150
+Ganancia: 150.3$
+Precio inicial de kilo de uvas: 0Kilos de uvas producidas: 0Venta: 100
+Ganancia: 99.7$
+Precio inicial de kilo de uvas: 9
+Kilos de uvas producidas: 23
+Venta: 207
+Ganancia: 207.2$
+Precio inicial de kilo de uvas: 6
+Kilos de uvas producidas: 120
+Venta: 720
+Ganancia (Tipo B-Tamaño 2): 719.5$
